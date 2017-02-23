@@ -1,0 +1,262 @@
+{
+    "breakpoints": {
+        "json()": []
+    },
+    "console": {
+        "@expanded": false,
+        "@height": 235.33334350585938,
+        "@maximized": false,
+        "json()": {
+            "meta": {
+                "accessList": []
+            },
+            "name": "pane0",
+            "nodes": [],
+            "skin": "editor_tab",
+            "skinset": "default",
+            "type": "pane"
+        }
+    },
+    "experiments": {
+        "@@enabled": true,
+        "@autosave": 0,
+        "@flat-dark": 0,
+        "@git": 1,
+        "@plugin-manager": 1,
+        "@plugins": 0,
+        "@sdk": 0,
+        "@test": 0
+    },
+    "ext": {
+        "counters": {
+            "@ace": 1,
+            "@acestatus": 1,
+            "@datagrid": 1,
+            "@divider": 5,
+            "@document": 5,
+            "@form": 5,
+            "@menu": 5,
+            "@menuitem": 13,
+            "@pane": 3,
+            "@postmessage": 1,
+            "@preferences": 1,
+            "@preview": 1,
+            "@session": 5,
+            "@tab": 4,
+            "@tree": 2,
+            "@undoManager": 5
+        }
+    },
+    "findinfiles": {
+        "@console": "true",
+        "@matchcase": "false",
+        "@regex": "false",
+        "@scope": "selection",
+        "@wholeword": "false"
+    },
+    "menus": {
+        "@minimized": false
+    },
+    "nak": {
+        "@installed": true
+    },
+    "panecycle": {
+        "json()": [
+            "tab0",
+            "tab1",
+            "tab6"
+        ]
+    },
+    "panels": {
+        "@active-left": "tree",
+        "@active-right": "none",
+        "commands.panel": {
+            "@enabled": "true",
+            "@name": "commands.panel"
+        },
+        "debugger": {
+            "@enabled": "true",
+            "@name": "debugger"
+        },
+        "navigate": {
+            "@enabled": "true",
+            "@name": "navigate"
+        },
+        "outline": {
+            "@enabled": "true",
+            "@name": "outline"
+        },
+        "scm": {
+            "@enabled": "true",
+            "@name": "scm"
+        },
+        "tree": {
+            "@enabled": "true",
+            "@name": "tree"
+        }
+    },
+    "projecttree": {
+        "@scrollpos": -10,
+        "@showfs": true,
+        "expanded": {
+            "json()": [
+                "/",
+                "/router"
+            ]
+        }
+    },
+    "recentfiles": {
+        "json()": []
+    },
+    "tabs": {
+        "json()": {
+            "focus": "/router/main.js",
+            "nodes": [
+                {
+                    "type": "vsplitbox",
+                    "nodes": [
+                        {
+                            "type": "pane",
+                            "name": "pane8",
+                            "nodes": [
+                                {
+                                    "type": "tab",
+                                    "name": "tab1",
+                                    "path": "/router/main.js",
+                                    "className": [
+                                        "tab1",
+                                        "focus"
+                                    ],
+                                    "document": {
+                                        "changed": false,
+                                        "meta": {
+                                            "timestamp": 1487824618896
+                                        },
+                                        "filter": true,
+                                        "title": "main.js",
+                                        "tooltip": "/router/main.js",
+                                        "ace": {}
+                                    },
+                                    "editorType": "ace",
+                                    "active": true
+                                },
+                                {
+                                    "type": "tab",
+                                    "name": "tab2",
+                                    "path": "/app.js",
+                                    "className": [
+                                        "tab2"
+                                    ],
+                                    "document": {
+                                        "changed": false,
+                                        "meta": {
+                                            "timestamp": 1486536981359
+                                        },
+                                        "filter": true,
+                                        "title": "app.js",
+                                        "tooltip": "/app.js",
+                                        "ace": {}
+                                    },
+                                    "editorType": "ace",
+                                    "active": false
+                                }
+                            ],
+                            "skin": "editor_tab",
+                            "skinset": "default",
+                            "meta": {
+                                "accessList": [
+                                    "tab2",
+                                    "tab1"
+                                ]
+                            }
+                        },
+                        {
+                            "type": "pane",
+                            "name": "pane2",
+                            "nodes": [
+                                {
+                                    "type": "tab",
+                                    "name": "tab6",
+                                    "path": "",
+                                    "className": [
+                                        "tab6"
+                                    ],
+                                    "document": {
+                                        "changed": false,
+                                        "meta": {
+                                            "timestamp": 1487058174338
+                                        },
+                                        "filter": true,
+                                        "title": "mysql - \"guenhoo@guenhoo: /var/www/html/mfics3\" ",
+                                        "tooltip": "mysql - \"guenhoo@guenhoo: /var/www/html/mfics3\" ",
+                                        "terminal": {
+                                            "id": "devel_136",
+                                            "cwd": "",
+                                            "width": 636,
+                                            "height": 153
+                                        }
+                                    },
+                                    "editorType": "terminal",
+                                    "active": true
+                                }
+                            ],
+                            "height": "27.312336873497024%",
+                            "skin": "editor_tab",
+                            "skinset": "default",
+                            "meta": {
+                                "accessList": [
+                                    "tab6"
+                                ]
+                            }
+                        }
+                    ]
+                },
+                {
+                    "type": "pane",
+                    "name": "pane1",
+                    "nodes": [
+                        {
+                            "type": "tab",
+                            "name": "tab0",
+                            "path": "",
+                            "className": [
+                                "tab0"
+                            ],
+                            "document": {
+                                "changed": false,
+                                "meta": {
+                                    "timestamp": 1486962338232
+                                },
+                                "filter": true,
+                                "title": "bash - \"guenhoo@guenhoo: /var/www/html/mfics3\" ",
+                                "tooltip": "bash - \"guenhoo@guenhoo: /var/www/html/mfics3\" ",
+                                "terminal": {
+                                    "id": "devel_211",
+                                    "cwd": "",
+                                    "width": 513,
+                                    "height": 627
+                                }
+                            },
+                            "editorType": "terminal",
+                            "active": true
+                        }
+                    ],
+                    "width": "44.610108748726226%",
+                    "skin": "editor_tab",
+                    "skinset": "default",
+                    "meta": {
+                        "accessList": [
+                            "tab0"
+                        ]
+                    }
+                }
+            ],
+            "type": "hsplitbox"
+        }
+    },
+    "tree_selection": {
+        "json()": [
+            "/package.json"
+        ]
+    }
+}
