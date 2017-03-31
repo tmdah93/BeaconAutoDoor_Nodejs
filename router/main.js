@@ -61,6 +61,7 @@ module.exports = function(app, fs) {
           });
 
      });
+     
      /* Modify User's Location info */
      app.get('/modifyWhereis', function(req, res){
           var qry = url.parse(req.url, true).query;
@@ -73,6 +74,7 @@ module.exports = function(app, fs) {
              }
           });
      });
+     
      app.get('/', function(req, res) {
           res.send("Hello world");
           console.log("log hello");
